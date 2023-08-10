@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+  .nav-item .nav-link button{
+    background-color: greenyellow;
+}
+.main .navbar{
+    background: #090d17;
+}
+ .un{
+    background-color:  #090d17;
+ }
+ .un .bet{
+    background-color: #0b1221;
+    width:350px;
+    height:300px;
+    border-radius: 20px;
+    text-align:;
+    border-left:1px solid rgb(26, 255, 0);
+    border-top: 2px solid rgb(26, 255, 0);
+    padding: 0px;
+    top: 0px;
+ }
+ 
+ .un .bett{
+    background-color: #0b1221;
+    width:350px;
+    height:300px;
+    border-radius: 20px;
+    text-align:;
+    border-left:1px solid rgb(255, 119, 0);
+    border-top: 2px solid rgb(255, 119, 0);
+    padding: 0px;
+    top: 0px;
+ }
+ 
+ .un .betc{
+    background-color: #0b1221;
+    width:350px;
+    height:300px;
+    border-radius: 20px;
+    text-align:;
+    border-left:1px solid rgb(56, 113, 246);
+    border-top: 2px solid rgb(56, 113, 246);
+    padding: 0px;
+    top: 0px;
+ }
+ .how{
+    background: url();
+    background:url(../img/b.jpg);
+
+ }
+  .Wallet{
+    background-color: #0b1221; ;
+  }
+  .betcoin .soon{
+    background-color:rgb(88, 90, 93);
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    color: #fff;
+    border: 2px solid whitesmoke;
+    padding-top:110px;
+    border-radius: 10px;
+    
+  }
+    .betcoin{
+      background: #0b1221;
+
+    }
+  .map{
+    background:rgb(20, 19, 19);
+  }
+   .power{
+    background: #0b1221;
+
+   }
+   .discord .box{
+     width: 400px;
+     height: 300px;
+     border-radius: 10px;
+     background: #090d17; 
+     border: 2px solid whitesmoke;
+     text-align: center;
+     padding: 20px;
+   }
+   .discord .box p{
+    color:rgb(149, 147, 147);
+    font-weight: bold;
+   }
+    .discord .box2{
+   background-color: #0b1221;
+   width:600px;
+   height:600px;
+   border-radius: 20px;
+   text-align:left;
+   border-left:1px solid rgb(26, 255, 0);
+   border-top: 2px solid rgb(26, 255, 0);
+   padding: 20px;
+   top:0;
+    }
+   .un .trans{
+    font-weight: 900;
+    color: slategray;
+    font-size: 6.8w;
+    line-height: 105.02%;
+   }
+    .carousel-caption{
+       bottom: 22.25rem;
+       left: 45.25em; 
+       text-align: left;
+   }
+   .main .navbar{
+    border-bottom: 0.5px solid #fff;
+   }
+    .clip{
+      position:relative;
+      right: 0;
+      bottom: 0;
+      z-index: -1;
+    }
+    .content{
+      position: absolute;
+      z-index: 2;
+    }
+    footer{
+      border-top: 1px solid #fff;
+      background-color: #0b1221;
+    }
+    .betcoin .coin{
+      font-weight: 900;
+      color: #fff;
+    }
